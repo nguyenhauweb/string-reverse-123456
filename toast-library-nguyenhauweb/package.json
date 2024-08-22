@@ -1,0 +1,25 @@
+{
+  "name": "toast-library-nguyenhauweb",
+  "version": "1.0.0",
+  "description": "demo toast",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1001st/toast-library-nguyenhauweb.git"
+  },
+  "keywords": [
+    "toast"
+  ],
+  "author": "nguyenhauweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z1001st/toast-library-nguyenhauweb/issues"
+  },
+  "homepage": "https://github.com/z1001st/toast-library-nguyenhauweb#readme",
+  "dependencies": {
+    "toast-library-nguyenhauweb": "^1.0.0"
+  }
+}
